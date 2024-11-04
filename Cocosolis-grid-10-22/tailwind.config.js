@@ -6,15 +6,20 @@ module.exports = {
       'secondary': '#DEBAA7',
       'white': '#ffffff',
       'nav-text': '#816c65',
+      'shimmer': '#FBF1EB',
+      'benefits': '#f2d3c1',
     },
     gridTemplateColumns: {
       'hero': '1.25fr 1fr;'
     },
     fontFamily: {
-      'Monserrat': ['Montserrat', 'sans-serif'],
+      'Montserrat': ['Montserrat', 'sans-serif'],
     },
-
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'product': "url('product.png')",
+      },
+    },
   },
   plugins: [],
 }
