@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:52:39	167/167	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2029%20Oct%202024%2008:52:37%20GMT	http://cocosolis.com/robots.txt		(from )
+10:52:39	167/167	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2029%20Oct%202024%2008:52:37%20GMT	http://cocosolis.com/bg/	C:/Users/valen/Desktop/ui-ux/asd/cocosolis.com/bg/index.html	(from )
